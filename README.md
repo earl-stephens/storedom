@@ -19,3 +19,5 @@ And set up the database and included seed records:
 ```
 bundle exec rake db:setup
 ```
+
+test
